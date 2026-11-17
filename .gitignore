@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Online Retail dataset (download link in README)
+/Online Retail.xlsx
