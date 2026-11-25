@@ -1,0 +1,2 @@
+-r ../hw1/requirements.txt
+catboost==1.2.8
